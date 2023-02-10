@@ -29,3 +29,7 @@ color = "#E8BA22"
 [[tag]]
 name = "guessing"
 color = "#DE7343"
+
+[[tag]]
+name = "blockchain"
+color = "#F4A900"
