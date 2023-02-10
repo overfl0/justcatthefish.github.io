@@ -1,0 +1,36 @@
+<style>
+    {{ range .Site.Data.tags.tag }}
+    .tag-{{ .name }} {
+        background: {{ .color }};
+    }
+    {{ end }}
+</style>
+
+<ul class="member-list">
+    {{ range .Site.Data.members.current }}
+    <li>
+        <h4 class="member-name">
+            {{- if .link }}<a href="{{ .link }}">{{ .name }}</a>{{ else }}{{ .name }}{{ end -}}
+        </h4>
+        <div class="member-tags">
+            {{- range .tags }}<span class="tag tag-{{ . }}">{{ . }}</span>{{ end -}}
+        </div>
+        <p class="member-desc">{{ .bio | markdownify }}</p>
+    </li>
+    {{ end }}
+</ul>
+
+<h2 class="member-former-header">Former</h2>
+<ul class="member-list">
+    {{ range .Site.Data.members.former }}
+    <li>
+        <h4 class="member-name">
+            {{- if .link }}<a href="{{ .link }}">{{ .name }}</a>{{ else }}{{ .name }}{{ end -}}
+        </h4>
+        <div class="member-tags">
+            {{- range .tags }}<span class="tag tag-{{ . }}">{{ . }}</span>{{ end -}}
+        </div>
+        <p class="member-desc">{{ .bio | markdownify }}</p>
+    </li>
+    {{ end }}
+</ul>

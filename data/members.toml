@@ -1,0 +1,51 @@
+[[current]]
+name = "disconnect3d"
+tags = [ "pwn", "re" ]
+bio = "The team **captain**. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+link = "https://google.com/"
+
+[[current]]
+name = "Arusekk"
+tags = [ "pwn", "web", "misc" ]
+bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+[[current]]
+name = "artcz"
+tags = [ "web", "misc" ]
+bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+[[current]]
+name = "Embed221ed"
+tags = [ "pwn", "re" ]
+bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+[[current]]
+name = "plukasik"
+tags = [ "pwn", "re" ]
+bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+[[current]]
+name = "Rivit"
+tags = [ "pwn", "re" ]
+bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+[[current]]
+name = "szymex73"
+tags = [ "pwn", "re" ]
+bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+[[current]]
+name = "Xert"
+tags = [ "pwn", "re" ]
+bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+# Former
+[[former]]
+name = "Altair"
+tags = [ "pwn", "re", "web" ]
+bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+[[former]]
+name = "b3niup"
+tags = [ "pwn", "re", "web" ]
+bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

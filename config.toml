@@ -1,0 +1,23 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'justCTF'
+disableKinds = ["sitemap", "RSS", "taxonomy", "term"]
+ignoreErrors = ["error-disable-taxonomy"]
+disableHugoGeneratorInject = true
+sectionPageMenu = "main"
+
+[menu]
+[[menu.main]]
+name = "Members"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Achievements"
+url = "/achievements/"
+weight = 2
+
+[[menu.main]]
+name = "Team info"
+url = "/about/"
+weight = 3
