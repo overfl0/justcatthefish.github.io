@@ -1,15 +1,31 @@
 [[tag]]
 name = "pwn"
-color = "#c8007b"
+color = "#F00012"
 
 [[tag]]
 name = "re"
-color = "#c84500"
+color = "#A600D6"
 
 [[tag]]
 name = "web"
-color = "#64c800"
+color = "#007BC8"
+
+[[tag]]
+name = "crypto"
+color = "#F47E00"
+
+[[tag]]
+name = "fore"
+color = "#4FB77F"
 
 [[tag]]
 name = "misc"
-color = "#9a00c8"
+color = "#2DCB00"
+
+[[tag]]
+name = "ppc"
+color = "#E8BA22"
+
+[[tag]]
+name = "guessing"
+color = "#DE7343"
