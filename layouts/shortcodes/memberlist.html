@@ -10,7 +10,7 @@
     {{ range .Site.Data.members.current }}
     <li>
         <h4 class="member-name">
-            {{- if .link }}<a href="{{ .link }}">{{ .name }}</a>{{ else }}{{ .name }}{{ end -}}
+            {{- if .link }}<a href="{{ .link }}"><u>{{ .name }}</u></a>{{ else }}{{ .name }}{{ end -}}
         </h4>
         <div class="member-tags">
             {{- range .tags }}<span class="tag tag-{{ . }}">{{ . }}</span>{{ end -}}
