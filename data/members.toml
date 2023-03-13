@@ -26,6 +26,7 @@ name = "embe221ed"
 name = "MrQubo"
 tags = [ "crypto", "ppc", "misc", "guessing" ]
 bio = "Doing this one task for the whole CTF."
+link = "https://is.gd/WVZvnI"
 
 [[current]]
 name = "plukasik"
