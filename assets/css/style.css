@@ -286,6 +286,14 @@ body {
 	background: #9a00c8;
 } */
 
+.former-details-header::marker {
+	display: inline;
+}
+
+.former-details-header > * {
+	display: inline;
+}
+
 /* Responsive */
 
 @media only screen and (max-height: 799px) {
