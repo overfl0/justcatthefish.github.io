@@ -24,7 +24,7 @@ name = "embe221ed"
 
 [[current]]
 name = "MrQubo"
-tags = [ "misc", "guessing" ]
+tags = [ "crypto", "misc", "guessing" ]
 bio = "Doing this one task for the whole CTF."
 
 [[current]]
