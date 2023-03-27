@@ -39,6 +39,8 @@ link = "https://is.gd/WVZvnI"
 
 [[current]]
 name = "plukasik"
+tags = ["re"]
+link = "https://twitter.com/pawel_lukasik"
 
 [[current]]
 name = "ptrtofuture"
@@ -59,6 +61,8 @@ bio = "Doing random things and waiting for valid results"
 
 [[current]]
 name = "adamm"
+tags = [ "web", "pwn", "guessing" ]
+link = "https://twitter.com/adamsimutis"
 
 [[current]]
 name = "ahpaleus"
@@ -90,6 +94,8 @@ name = "kolokokop"
 
 [[current]]
 name = "Kusik"
+tags = [ "web", "misc", "fore", "guessing" ]
+bio = "Luck is my main skill."
 
 [[current]]
 name = "cranix"
