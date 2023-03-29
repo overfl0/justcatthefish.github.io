@@ -21,6 +21,9 @@ bio = "The team **vice-captain**."
 
 [[current]]
 name = "Arusekk"
+tags = ["pwn", "misc", "guessing"]
+bio = "Abusing computers praying for the best. Also [Pwntools](https://github.com/Gallopsled/pwntools) maintainer."
+link = "https://blog.arusekk.pl"
 
 [[current]]
 name = "DrBrix"
