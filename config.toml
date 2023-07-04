@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'justCTF'
+title = 'justCatTheFish'
 disableKinds = ["sitemap", "RSS", "taxonomy", "term"]
 ignoreErrors = ["error-disable-taxonomy"]
 disableHugoGeneratorInject = true
