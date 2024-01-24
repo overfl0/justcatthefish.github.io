@@ -253,6 +253,19 @@ body {
 	color: #fd3959;
 }
 
+.member-desc a {
+	color: var(--text-color);
+	text-decoration: underline;
+}
+
+.member-desc a:hover {
+	color: var(--hover-color);
+}
+
+.member-desc a:visited {
+	color: var(--accent-color);
+}
+
 .tag {
 	display: inline-block;
 	font-family: var(--styled-font-family);
@@ -298,6 +311,19 @@ body {
 .markdown-content {
 	font-family: var(--long-text-font-family);
 	font-size: 1.5rem;
+}
+
+.markdown-content a {
+	color: var(--text-color);
+	text-decoration: underline;
+}
+
+.markdown-content a:hover {
+	color: var(--hover-color);
+}
+
+.markdown-content a:visited {
+	color: var(--accent-color);
 }
 
 /* Responsive */
