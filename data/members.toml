@@ -8,7 +8,7 @@
 [[current]]
 name = "disconnect3d"
 tags = [ "pwn", "re" ]
-bio = "Likes to poke at things to understand how they work. Currently works at Trail of Bits looking for bugs in software. Also, [Pwndbg](https://github.com/pwndbg/pwndbg) maintainer and the team **captain**."
+bio = "Team **captain**. Likes to poke at things to understand how they work. Maintains [Pwndbg](https://github.com/pwndbg/pwndbg) and looks for bugs in software for Trail of Bits."
 link = "https://disconnect3d.pl/"
 # irc = disconnect3d @ libera
 # github = https://github.com/disconnect3d
@@ -70,8 +70,6 @@ name = "adamm"
 tags = [ "web", "pwn", "guessing" ]
 link = "https://twitter.com/adamsimuntis"
 
-[[current]]
-name = "ahpaleus"
 
 [[current]]
 name = "Anony"
@@ -107,9 +105,6 @@ tags = [ "web", "misc", "fore", "guessing" ]
 bio = "Luck is my main skill."
 
 [[current]]
-name = "cranix"
-
-[[current]]
 name = "Overflo"
 tags = ["re", "pwn", "guessing"]
 bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer auctor maximus quam fringilla gravida."
@@ -121,6 +116,12 @@ name = "Tacet"
 name = "terjanq"
 
 # Former
+[[current]]
+name = "ahpaleus"
+
+[[current]]
+name = "cranix"
+
 [[former]]
 name = "Ac3"
 
