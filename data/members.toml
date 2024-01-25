@@ -88,6 +88,9 @@ tags = [ "crypto", "re" ]
 
 [[current]]
 name = "gregxsunday"
+tags = ["web"]
+bio = "Some say he can bypass a WAF just by staring at it intensely."
+link = "https://www.bugbountyexplained.com"
 
 [[current]]
 name = "GwynBleidD"
