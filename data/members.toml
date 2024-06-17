@@ -119,6 +119,12 @@ name = "Tacet"
 [[current]]
 name = "terjanq"
 
+[[current]]
+name = "foxtrot_charlie"
+tags = [ "misc", "fore", "re" ]
+bio = "Juggling with bits and bytes"
+link = "https://foxtrotlabs.cc"
+
 # Former
 [[former]]
 name = "ahpaleus"
